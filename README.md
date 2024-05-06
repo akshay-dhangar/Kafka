@@ -70,3 +70,6 @@ This layer is simply the actual database that is responsible for:
 ## Usage
 
 - You will also need the database installed on your machine and set the connection vars on the application.properties or application.yml
+
+#Author
+Akshay Dhangar
